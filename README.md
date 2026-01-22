@@ -9,7 +9,7 @@ Library can be used as a dependency:
 1. Add it to your `Cargo.toml`:
 ```toml
 [dependencies]
-fleet-api-rs = "0.14.1"
+fleet-api-rs = "0.14.2"
 ```
 
 ## Features
